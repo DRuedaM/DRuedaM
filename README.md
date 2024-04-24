@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=druedam&show_icons=true&theme=dark&locale=en" alt="druedam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=druedam&theme=dark" alt="druedam" /></p>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F0X0J9B)
